@@ -34,6 +34,7 @@ jobs:
           haxelib install ../hxcpp-4.3.45.zip --quiet
           haxelib install format --quiet
           haxelib install hxp --quiet
+          haxelib install lime --quiet
 
       - name: Enable HXCPP compile cache
         run: |
@@ -209,6 +210,7 @@ jobs:
           haxelib install ../hxcpp-4.3.45.zip --quiet
           haxelib install format --quiet
           haxelib install hxp --quiet
+          haxelib install lime --quiet
 
       - name: Enable HXCPP compile cache
         run: |
@@ -312,6 +314,7 @@ jobs:
           haxelib install ../hxcpp-4.3.45.zip --quiet
           haxelib install format --quiet
           haxelib install hxp --quiet
+          haxelib install lime --quiet
 
       - name: Enable HXCPP compile cache
         run: |
@@ -385,6 +388,7 @@ jobs:
           haxelib install ../hxcpp-4.3.45.zip --quiet
           haxelib install format --quiet
           haxelib install hxp --quiet
+          haxelib install lime --quiet
 
       - name: Enable HXCPP compile cache
         run: |
@@ -451,6 +455,7 @@ jobs:
           haxelib install hxp --quiet
           haxelib install svg --quiet
           haxelib install openfl --quiet
+          haxelib install lime --quiet
 
       - name: Enable HXCPP compile cache
         run: |
